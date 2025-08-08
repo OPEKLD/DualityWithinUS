@@ -1,0 +1,13 @@
+#pragma once
+#include "ECS.h"
+#include "TransformComponent.h"
+#include "SpriteComponent.h"
+#include "KeyboardController.h"
+#include "RangedAttack.h"
+#include "EnemyComponent.h"
+#include "HealthComponent.h"
+#include "ColliderComponent.h"
+#include "HomingAttackComponent.h"
+#include "inyouComponent.h"
+#include "OwnerComponent.h"
+#include "SquealComponent.h"
